@@ -131,6 +131,7 @@ body{
 .attribution__span{
     margin-right: 5px;
     margin-left: 10px;
+    margin-top: 5px;
     letter-spacing: 2px;
 }
 .attribution a{
